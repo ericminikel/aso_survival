@@ -1,57 +1,57 @@
 thing	stage	tx	value	plot	x
-1	ASO	pre	active ASO 1	13.3	1	1
-2	ASO	pre	active ASO 1	8.9	1	1
-3	ASO	term	active ASO 1	8.8	1	2
-4	ASO	term	active ASO 1	8.9	1	2
-5	ASO	term	active ASO 1	9.8	1	2
-6	ASO	term	active ASO 1	7.6	1	2
-7	ASO	term	active ASO 1	6.6	1	2
-8	ASO	term	active ASO 1	6.2	1	2
-9	ASO	term	active ASO 1	7.2	1	2
-10	ASO	term	control ASO	6.3	1	3
-11	ASO	term	control ASO	5.5	1	3
-12	ASO	term	control ASO	5.5	1	3
-13	ASO	term	control ASO	5.1	1	3
-14	ASO	term	control ASO	3.4	1	3
-15	ASO	term	control ASO	6.5	1	3
-16	ASO	term	control ASO	5.2	1	3
-17	ASO	term	no treatment	0.3	1	4
-18	ASO	term	no treatment	0.2	1	4
-19	ASO	term	no treatment	0.6	1	4
-20	ASO	term	saline	0.3	1	5
-21	ASO	term	saline	0.1	1	5
-22	ASO	term	saline	0	1	5
-23	ASO	term	saline	0.1	1	5
-24	ASO	term	saline	0.08	1	5
-25	ASO	term	saline	0.2	1	5
-26	ASO	term	saline	0.1	1	5
-27	ASO	term	saline	0.2	1	5
-28	ASO	term	saline	0.3	1	5
-29	PrP	pre	active ASO 1	42.1	2	1
-30	PrP	pre	active ASO 1	26.9	2	1
-31	PrP	term	active ASO 1	54.6	2	2
-32	PrP	term	active ASO 1	56.6	2	2
-33	PrP	term	active ASO 1	58.2	2	2
-34	PrP	term	active ASO 1	65	2	2
-35	PrP	term	active ASO 1	63.2	2	2
-36	PrP	term	active ASO 1	53.7	2	2
-37	PrP	term	active ASO 1	61.5	2	2
-38	PrP	term	control ASO	68.4	2	3
-39	PrP	term	control ASO	67.7	2	3
-40	PrP	term	control ASO	65.2	2	3
-41	PrP	term	control ASO	65.2	2	3
-42	PrP	term	control ASO	58.3	2	3
-43	PrP	term	control ASO	55.5	2	3
-44	PrP	term	control ASO	61.5	2	3
-45	PrP	term	no treatment	63.1	2	4
-46	PrP	term	no treatment	73.5	2	4
-47	PrP	term	no treatment	70.8	2	4
-48	PrP	term	saline	67	2	5
-49	PrP	term	saline	66	2	5
-50	PrP	term	saline	73.7	2	5
-51	PrP	term	saline	59.4	2	5
-52	PrP	term	saline	66.2	2	5
-53	PrP	term	saline	63.7	2	5
-54	PrP	term	saline	67.4	2	5
-55	PrP	term	saline	54.8	2	5
-56	PrP	term	saline	72.1	2	5
+ASO	pre	active ASO 1	13.3	1	1
+ASO	pre	active ASO 1	8.9	1	1
+ASO	term	active ASO 1	8.8	1	2
+ASO	term	active ASO 1	8.9	1	2
+ASO	term	active ASO 1	9.8	1	2
+ASO	term	active ASO 1	7.6	1	2
+ASO	term	active ASO 1	6.6	1	2
+ASO	term	active ASO 1	6.2	1	2
+ASO	term	active ASO 1	7.2	1	2
+ASO	term	control ASO	6.3	1	3
+ASO	term	control ASO	5.5	1	3
+ASO	term	control ASO	5.5	1	3
+ASO	term	control ASO	5.1	1	3
+ASO	term	control ASO	3.4	1	3
+ASO	term	control ASO	6.5	1	3
+ASO	term	control ASO	5.2	1	3
+ASO	term	no treatment	0.3	1	4
+ASO	term	no treatment	0.2	1	4
+ASO	term	no treatment	0.6	1	4
+ASO	term	saline	0.3	1	5
+ASO	term	saline	0.1	1	5
+ASO	term	saline	0	1	5
+ASO	term	saline	0.1	1	5
+ASO	term	saline	0.08	1	5
+ASO	term	saline	0.2	1	5
+ASO	term	saline	0.1	1	5
+ASO	term	saline	0.2	1	5
+ASO	term	saline	0.3	1	5
+PrP	pre	active ASO 1	42.1	2	1
+PrP	pre	active ASO 1	26.9	2	1
+PrP	term	active ASO 1	54.6	2	2
+PrP	term	active ASO 1	56.6	2	2
+PrP	term	active ASO 1	58.2	2	2
+PrP	term	active ASO 1	65	2	2
+PrP	term	active ASO 1	63.2	2	2
+PrP	term	active ASO 1	53.7	2	2
+PrP	term	active ASO 1	61.5	2	2
+PrP	term	control ASO	68.4	2	3
+PrP	term	control ASO	67.7	2	3
+PrP	term	control ASO	65.2	2	3
+PrP	term	control ASO	65.2	2	3
+PrP	term	control ASO	58.3	2	3
+PrP	term	control ASO	55.5	2	3
+PrP	term	control ASO	61.5	2	3
+PrP	term	no treatment	63.1	2	4
+PrP	term	no treatment	73.5	2	4
+PrP	term	no treatment	70.8	2	4
+PrP	term	saline	67	2	5
+PrP	term	saline	66	2	5
+PrP	term	saline	73.7	2	5
+PrP	term	saline	59.4	2	5
+PrP	term	saline	66.2	2	5
+PrP	term	saline	63.7	2	5
+PrP	term	saline	67.4	2	5
+PrP	term	saline	54.8	2	5
+PrP	term	saline	72.1	2	5

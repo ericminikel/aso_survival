@@ -1,69 +1,69 @@
 stage	tx	thing	value	x	mouse
-1	pre	active ASO 1	-PK	0.13	1	1
-2	pre	active ASO 1	-PK	0.14	1	2
-3	pre	active ASO 1	-PK	0.05	1	1
-4	pre	active ASO 1	-PK	0.07	1	2
-5	pre	active ASO 1	-PK	0.16	1	1
-6	pre	active ASO 1	-PK	0.22	1	2
-7	pre	active ASO 2	-PK	0.13	2	1
-8	pre	active ASO 2	-PK	0.15	2	2
-9	pre	active ASO 2	-PK	0.07	2	1
-10	pre	active ASO 2	-PK	0.1	2	2
-11	pre	active ASO 2	-PK	0.25	2	1
-12	pre	active ASO 2	-PK	0.35	2	2
-13	term	active ASO 1	-PK	0.9	3	1
-14	term	active ASO 1	-PK	0.27	3	2
-15	term	active ASO 1	-PK	0.79	3	1
-16	term	active ASO 1	-PK	0.48	3	2
-17	term	active ASO 2	-PK	0.38	4	1
-18	term	active ASO 2	-PK	0.58	4	2
-19	term	active ASO 2	-PK	0.74	4	1
-20	term	active ASO 2	-PK	0.92	4	2
-21	term	control ASO	-PK	0.75	5	1
-22	term	control ASO	-PK	0.7	5	2
-23	term	control ASO	-PK	1.99	5	1
-24	term	control ASO	-PK	1.66	5	2
-25	term	control ASO	-PK	1.61	5	1
-26	term	control ASO	-PK	1.45	5	2
-27	term	saline	-PK	1.04	6	1
-28	term	saline	-PK	0.96	6	2
-29	term	saline	-PK	0.56	6	1
-30	term	saline	-PK	1.44	6	2
-31	term	saline	-PK	0.77	6	1
-32	term	saline	-PK	1.23	6	2
-33		uninfected	-PK	0.42	7	1
-34		uninfected	-PK	0.43	7	2
-35	pre	active ASO 1	+PK	0.1	1	1
-36	pre	active ASO 1	+PK	0.08	1	2
-37	pre	active ASO 1	+PK	0.13	1	1
-38	pre	active ASO 1	+PK	0.12	1	2
-39	pre	active ASO 1	+PK	0.09	1	1
-40	pre	active ASO 1	+PK	0.22	1	2
-41	pre	active ASO 2	+PK	0.09	2	1
-42	pre	active ASO 2	+PK	0.07	2	2
-43	pre	active ASO 2	+PK	0.25	2	1
-44	pre	active ASO 2	+PK	0.2	2	2
-45	pre	active ASO 2	+PK	0.12	2	1
-46	pre	active ASO 2	+PK	0.17	2	2
-47	term	active ASO 1	+PK	1.3	3	1
-48	term	active ASO 1	+PK	1.25	3	2
-49	term	active ASO 1	+PK	1.39	3	1
-50	term	active ASO 1	+PK	0.91	3	2
-51	term	active ASO 2	+PK	1.14	4	1
-52	term	active ASO 2	+PK	1.14	4	2
-53	term	active ASO 2	+PK	1.48	4	1
-54	term	active ASO 2	+PK	2.1	4	2
-55	term	control ASO	+PK	0.73	5	1
-56	term	control ASO	+PK	0.75	5	2
-57	term	control ASO	+PK	1.62	5	1
-58	term	control ASO	+PK	1.47	5	2
-59	term	control ASO	+PK	2.84	5	1
-60	term	control ASO	+PK	2.46	5	2
-61	term	saline	+PK	1.06	6	1
-62	term	saline	+PK	0.94	6	2
-63	term	saline	+PK	0.77	6	1
-64	term	saline	+PK	1.23	6	2
-65	term	saline	+PK	0.86	6	1
-66	term	saline	+PK	1.14	6	2
-67		uninfected	+PK	0.04	7	1
-68		uninfected	+PK	0.05	7	2
+pre	active ASO 1	-PK	0.13	1	1
+pre	active ASO 1	-PK	0.14	1	2
+pre	active ASO 1	-PK	0.05	1	1
+pre	active ASO 1	-PK	0.07	1	2
+pre	active ASO 1	-PK	0.16	1	1
+pre	active ASO 1	-PK	0.22	1	2
+pre	active ASO 2	-PK	0.13	2	1
+pre	active ASO 2	-PK	0.15	2	2
+pre	active ASO 2	-PK	0.07	2	1
+pre	active ASO 2	-PK	0.1	2	2
+pre	active ASO 2	-PK	0.25	2	1
+pre	active ASO 2	-PK	0.35	2	2
+term	active ASO 1	-PK	0.9	3	1
+term	active ASO 1	-PK	0.27	3	2
+term	active ASO 1	-PK	0.79	3	1
+term	active ASO 1	-PK	0.48	3	2
+term	active ASO 2	-PK	0.38	4	1
+term	active ASO 2	-PK	0.58	4	2
+term	active ASO 2	-PK	0.74	4	1
+term	active ASO 2	-PK	0.92	4	2
+term	control ASO	-PK	0.75	5	1
+term	control ASO	-PK	0.7	5	2
+term	control ASO	-PK	1.99	5	1
+term	control ASO	-PK	1.66	5	2
+term	control ASO	-PK	1.61	5	1
+term	control ASO	-PK	1.45	5	2
+term	saline	-PK	1.04	6	1
+term	saline	-PK	0.96	6	2
+term	saline	-PK	0.56	6	1
+term	saline	-PK	1.44	6	2
+term	saline	-PK	0.77	6	1
+term	saline	-PK	1.23	6	2
+	uninfected	-PK	0.42	7	1
+	uninfected	-PK	0.43	7	2
+pre	active ASO 1	+PK	0.1	1	1
+pre	active ASO 1	+PK	0.08	1	2
+pre	active ASO 1	+PK	0.13	1	1
+pre	active ASO 1	+PK	0.12	1	2
+pre	active ASO 1	+PK	0.09	1	1
+pre	active ASO 1	+PK	0.22	1	2
+pre	active ASO 2	+PK	0.09	2	1
+pre	active ASO 2	+PK	0.07	2	2
+pre	active ASO 2	+PK	0.25	2	1
+pre	active ASO 2	+PK	0.2	2	2
+pre	active ASO 2	+PK	0.12	2	1
+pre	active ASO 2	+PK	0.17	2	2
+term	active ASO 1	+PK	1.3	3	1
+term	active ASO 1	+PK	1.25	3	2
+term	active ASO 1	+PK	1.39	3	1
+term	active ASO 1	+PK	0.91	3	2
+term	active ASO 2	+PK	1.14	4	1
+term	active ASO 2	+PK	1.14	4	2
+term	active ASO 2	+PK	1.48	4	1
+term	active ASO 2	+PK	2.1	4	2
+term	control ASO	+PK	0.73	5	1
+term	control ASO	+PK	0.75	5	2
+term	control ASO	+PK	1.62	5	1
+term	control ASO	+PK	1.47	5	2
+term	control ASO	+PK	2.84	5	1
+term	control ASO	+PK	2.46	5	2
+term	saline	+PK	1.06	6	1
+term	saline	+PK	0.94	6	2
+term	saline	+PK	0.77	6	1
+term	saline	+PK	1.23	6	2
+term	saline	+PK	0.86	6	1
+term	saline	+PK	1.14	6	2
+	uninfected	+PK	0.04	7	1
+	uninfected	+PK	0.05	7	2

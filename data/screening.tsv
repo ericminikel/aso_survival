@@ -1,19 +1,19 @@
 region	treatment	mrna	x
-1	cortex	saline	0.901906439	1
-2	cortex	saline	1.00674066	1
-3	cortex	saline	1.0913529	1
-4	cortex	active ASO 1	0.503538984	2
-5	cortex	active ASO 1	0.541445404	2
-6	cortex	active ASO 1	0.379500034	2
-7	cortex	active ASO 2	0.397395308	3
-8	cortex	active ASO 2	0.677990733	3
-9	cortex	active ASO 2	0.471172041	3
-10	thoracic cord	saline	0.9926262	5
-11	thoracic cord	saline	1.063101	5
-12	thoracic cord	saline	0.944273	5
-13	thoracic cord	active ASO 1	0.4128814	6
-14	thoracic cord	active ASO 1	0.411674	6
-15	thoracic cord	active ASO 1	0.4588096	6
-16	thoracic cord	active ASO 2	0.3715234	7
-17	thoracic cord	active ASO 2	0.2963445	7
-18	thoracic cord	active ASO 2	0.2991763	7
+cortex	saline	0.901906439	1
+cortex	saline	1.00674066	1
+cortex	saline	1.0913529	1
+cortex	active ASO 1	0.503538984	2
+cortex	active ASO 1	0.541445404	2
+cortex	active ASO 1	0.379500034	2
+cortex	active ASO 2	0.397395308	3
+cortex	active ASO 2	0.677990733	3
+cortex	active ASO 2	0.471172041	3
+thoracic cord	saline	0.9926262	5
+thoracic cord	saline	1.063101	5
+thoracic cord	saline	0.944273	5
+thoracic cord	active ASO 1	0.4128814	6
+thoracic cord	active ASO 1	0.411674	6
+thoracic cord	active ASO 1	0.4588096	6
+thoracic cord	active ASO 2	0.3715234	7
+thoracic cord	active ASO 2	0.2963445	7
+thoracic cord	active ASO 2	0.2991763	7
