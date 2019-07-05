@@ -1,0 +1,149 @@
+expt	cohort	dpi	cause_of_death	acm	onset_dpi	onset	duration
+NIH prophylactic	no treatment	92	intercurrent	1	92	0	NA
+NIH prophylactic	no treatment	136	prion disease	1	127	1	9
+NIH prophylactic	no treatment	139	prion disease	1	133	1	6
+NIH prophylactic	no treatment	140	prion disease	1	130	1	10
+NIH prophylactic	no treatment	146	prion disease	1	130	1	16
+NIH prophylactic	no treatment	146	prion disease	1	130	1	16
+NIH prophylactic	no treatment	152	prion disease	1	147	1	5
+NIH prophylactic	no treatment	157	prion disease	1	147	1	10
+NIH prophylactic	saline	97	intercurrent	1	97	0	NA
+NIH prophylactic	saline	118	intercurrent	1	118	0	NA
+NIH prophylactic	saline	140	prion disease	1	133	1	7
+NIH prophylactic	saline	140	prion disease	1	133	1	7
+NIH prophylactic	saline	143	prion disease	1	133	1	10
+NIH prophylactic	saline	155	prion disease	1	137	1	18
+NIH prophylactic	saline	155	prion disease	1	137	1	18
+NIH prophylactic	saline	156	prion disease	1	137	1	19
+NIH prophylactic	saline	156	prion disease	1	137	1	19
+NIH prophylactic	control ASO	70	intercurrent	1	70	0	NA
+NIH prophylactic	control ASO	120	sudden	1	120	0	NA
+NIH prophylactic	control ASO	120	sudden	1	120	0	NA
+NIH prophylactic	control ASO	120	sudden	1	120	0	NA
+NIH prophylactic	control ASO	121	sudden	1	121	0	NA
+NIH prophylactic	control ASO	138	prion disease	1	126	1	12
+NIH prophylactic	control ASO	149	prion disease	1	133	1	16
+NIH prophylactic	control ASO	156	prion disease	1	137	1	19
+NIH prophylactic	control ASO	156	prion disease	1	137	1	19
+NIH prophylactic	active ASO 1	144	intercurrent	1	144	0	NA
+NIH prophylactic	active ASO 1	161	sacrificed for histology	0	161	0	NA
+NIH prophylactic	active ASO 1	161	sacrificed for histology	0	161	0	NA
+NIH prophylactic	active ASO 1	227	unknown*	1	227	0	NA
+NIH prophylactic	active ASO 1	259	prion disease	1	244	1	15
+NIH prophylactic	active ASO 1	259	prion disease	1	247	1	12
+NIH prophylactic	active ASO 1	267	prion disease	1	253	1	14
+NIH prophylactic	active ASO 1	267	prion disease	1	253	1	14
+NIH prophylactic	active ASO 1	528	never developed disease	0	528	0	NA
+NIH prophylactic	active ASO 2	113	intercurrent	1	113	0	NA
+NIH prophylactic	active ASO 2	161	sacrificed for histology	0	161	0	NA
+NIH prophylactic	active ASO 2	161	sacrificed for histology	0	161	0	NA
+NIH prophylactic	active ASO 2	241	intercurrent	1	241	0	NA
+NIH prophylactic	active ASO 2	283	prion disease	1	272	1	11
+NIH prophylactic	active ASO 2	283	prion disease	1	272	1	11
+NIH prophylactic	active ASO 2	283	prion disease	1	272	1	11
+NIH prophylactic	active ASO 2	286	prion disease	1	272	1	14
+NIH prophylactic	active ASO 2	290	prion disease	1	272	1	18
+NIH 120 dpi	saline	136	prion disease	1	127	1	9
+NIH 120 dpi	saline	146	prion disease	1	136	1	10
+NIH 120 dpi	saline	152	prion disease	1	136	1	16
+NIH 120 dpi	saline	154	prion disease	1	142	1	12
+NIH 120 dpi	saline	157	prion disease	1	142	1	15
+NIH 120 dpi	saline	157	prion disease	1	142	1	15
+NIH 120 dpi	saline	157	prion disease	1	142	1	15
+NIH 120 dpi	saline	163	prion disease	1	142	1	21
+NIH 120 dpi	saline	163	prion disease	1	142	1	21
+NIH 120 dpi	control ASO	128	sudden	1	128	0	NA
+NIH 120 dpi	control ASO	129	sudden	1	129	0	NA
+NIH 120 dpi	control ASO	146	prion disease	1	142	1	4
+NIH 120 dpi	control ASO	152	prion disease	1	142	1	10
+NIH 120 dpi	control ASO	154	prion disease	1	142	1	12
+NIH 120 dpi	control ASO	154	prion disease	1	142	1	12
+NIH 120 dpi	control ASO	154	prion disease	1	142	1	12
+NIH 120 dpi	control ASO	154	prion disease	1	142	1	12
+NIH 120 dpi	control ASO	163	prion disease	1	142	1	21
+NIH 120 dpi	active ASO 1	169	sacrificed for histology	0	169	0	NA
+NIH 120 dpi	active ASO 1	169	sacrificed for histology	0	169	0	NA
+NIH 120 dpi	active ASO 1	230	prion disease	1	189	1	41
+NIH 120 dpi	active ASO 1	237	prion disease	1	189	1	48
+NIH 120 dpi	active ASO 1	244	prion disease	1	189	1	55
+NIH 120 dpi	active ASO 1	244	prion disease	1	189	1	55
+NIH 120 dpi	active ASO 1	248	prion disease	1	194	1	54
+NIH 120 dpi	active ASO 1	248	prion disease	1	194	1	54
+NIH 120 dpi	active ASO 1	257	prion disease	1	194	1	63
+NIH 120 dpi	active ASO 2	129	sudden	1	129	0	NA
+NIH 120 dpi	active ASO 2	129	sudden	1	129	0	NA
+NIH 120 dpi	active ASO 2	129	sudden	1	129	0	NA
+NIH 120 dpi	active ASO 2	129	sudden	1	129	0	NA
+NIH 120 dpi	active ASO 2	130	sudden	1	130	0	NA
+NIH 120 dpi	active ASO 2	130	sudden	1	130	0	NA
+NIH 120 dpi	active ASO 2	130	sudden	1	130	0	NA
+NIH 120 dpi	active ASO 2	130	sudden	1	130	0	NA
+NIH 120 dpi	active ASO 2	130	sudden	1	130	0	NA
+Broad prophylactic	no treatment	1	intercurrent	1	NA	NA	NA
+Broad prophylactic	no treatment	1	intercurrent	1	NA	NA	NA
+Broad prophylactic	no treatment	139	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	141	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	155	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	155	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	157	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	157	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	157	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	159	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	160	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	167	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	169	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	170	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	171	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	172	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	172	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	183	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	183	prion disease	1	NA	NA	NA
+Broad prophylactic	no treatment	206	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	157	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	168	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	168	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	169	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	169	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	170	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	170	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	170	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	171	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	171	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	172	prion disease	1	NA	NA	NA
+Broad prophylactic	saline	172	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	6	intercurrent	1	NA	NA	NA
+Broad prophylactic	control ASO	165	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	165	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	165	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	167	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	170	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	170	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	172	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	172	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	178	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	190	prion disease	1	NA	NA	NA
+Broad prophylactic	control ASO	315	never developed disease	0	NA	NA	NA
+Broad prophylactic	active ASO 1	0	intercurrent	1	NA	NA	NA
+Broad prophylactic	active ASO 1	252	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	263	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	264	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	270	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	270	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	277	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	277	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	277	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	277	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	281	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 1	287	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	1	intercurrent	1	NA	NA	NA
+Broad prophylactic	active ASO 2	287	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	294	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	295	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	299	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	299	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	301	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	301	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	301	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	301	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	303	prion disease	1	NA	NA	NA
+Broad prophylactic	active ASO 2	306	prion disease	1	NA	NA	NA

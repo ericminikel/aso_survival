@@ -1,0 +1,51 @@
+thing	stage	tx	value	plot	x
+1	ASO	pre	active ASO 1	11.1	1	1
+2	ASO	pre	active ASO 1	15.7	1	1
+3	ASO	pre	active ASO 2	21.4	1	2
+4	ASO	pre	active ASO 2	20.1	1	2
+5	ASO	term	active ASO 1	7.6	1	3
+6	ASO	term	active ASO 1	11.2	1	3
+7	ASO	term	active ASO 1	8.5	1	3
+8	ASO	term	active ASO 1	6.5	1	3
+9	ASO	term	active ASO 1	9.4	1	3
+10	ASO	term	active ASO 2	9.4	1	4
+11	ASO	term	active ASO 2	10.8	1	4
+12	ASO	term	active ASO 2	11.6	1	4
+13	ASO	term	active ASO 2	10.3	1	4
+14	ASO	term	active ASO 2	9.4	1	4
+15	ASO	term	control ASO	8.7	1	5
+16	ASO	term	control ASO	11.1	1	5
+17	ASO	term	control ASO	6.8	1	5
+18	ASO	term	control ASO	8.6	1	5
+19	ASO	term	saline	0.3	1	6
+20	ASO	term	saline	0.3	1	6
+21	ASO	term	saline	0.3	1	6
+22	ASO	term	saline	0.3	1	6
+23	ASO	term	saline	0.4	1	6
+24	ASO	term	saline	0.3	1	6
+25	ASO	term	saline	0.2	1	6
+26	PrP	pre	active ASO 1	21.3	2	1
+27	PrP	pre	active ASO 1	20	2	1
+28	PrP	pre	active ASO 2	8.4	2	2
+29	PrP	pre	active ASO 2	9.8	2	2
+30	PrP	term	active ASO 1	61.6	2	3
+31	PrP	term	active ASO 1	50.2	2	3
+32	PrP	term	active ASO 1	57.4	2	3
+33	PrP	term	active ASO 1	55.5	2	3
+34	PrP	term	active ASO 1	55.1	2	3
+35	PrP	term	active ASO 2	46	2	4
+36	PrP	term	active ASO 2	55.3	2	4
+37	PrP	term	active ASO 2	45.9	2	4
+38	PrP	term	active ASO 2	48.7	2	4
+39	PrP	term	active ASO 2	55	2	4
+40	PrP	term	control ASO	65.3	2	5
+41	PrP	term	control ASO	58.7	2	5
+42	PrP	term	control ASO	62.4	2	5
+43	PrP	term	control ASO	57.5	2	5
+44	PrP	term	saline	53.2	2	6
+45	PrP	term	saline	53.1	2	6
+46	PrP	term	saline	59.6	2	6
+47	PrP	term	saline	54.8	2	6
+48	PrP	term	saline	57.4	2	6
+49	PrP	term	saline	57	2	6
+50	PrP	term	saline	57.8	2	6

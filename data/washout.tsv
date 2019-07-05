@@ -1,0 +1,97 @@
+region	treatment	weeks	mrna
+cortex	saline	4	1
+cortex	saline	4	1
+cortex	saline	4	1.03
+cortex	saline	4	0.97
+cortex	control ASO	4	0.96
+cortex	control ASO	4	0.96
+cortex	control ASO	4	1.07
+cortex	control ASO	4	1.04
+cortex	active ASO 1	4	0.37
+cortex	active ASO 1	4	0.47
+cortex	active ASO 1	4	0.35
+cortex	active ASO 1	4	0.47
+cortex	active ASO 2	4	0.39
+cortex	active ASO 2	4	0.44
+cortex	active ASO 2	4	0.45
+cortex	active ASO 2	4	0.61
+cortex	saline	12	0.98
+cortex	saline	12	1.08
+cortex	saline	12	0.98
+cortex	saline	12	0.97
+cortex	control ASO	12	0.99
+cortex	control ASO	12	0.96
+cortex	control ASO	12	1.05
+cortex	control ASO	12	1.01
+cortex	active ASO 1	12	0.74
+cortex	active ASO 1	12	0.74
+cortex	active ASO 1	12	0.7
+cortex	active ASO 1	12	0.68
+cortex	active ASO 2	12	0.81
+cortex	active ASO 2	12	0.68
+cortex	active ASO 2	12	0.76
+cortex	active ASO 2	12	0.82
+cortex	saline	16	1.04
+cortex	saline	16	0.91
+cortex	saline	16	1.03
+cortex	saline	16	1.02
+cortex	control ASO	16	1.07
+cortex	control ASO	16	1.08
+cortex	control ASO	16	1.1
+cortex	control ASO	16	1.02
+cortex	active ASO 1	16	0.85
+cortex	active ASO 1	16	0.99
+cortex	active ASO 1	16	0.89
+cortex	active ASO 1	16	0.93
+cortex	active ASO 2	16	0.93
+cortex	active ASO 2	16	0.98
+cortex	active ASO 2	16	0.83
+cortex	active ASO 2	16	0.79
+thoracic cord	saline	4	1
+thoracic cord	saline	4	1
+thoracic cord	saline	4	0.98
+thoracic cord	saline	4	1.02
+thoracic cord	control ASO	4	1.02
+thoracic cord	control ASO	4	1.03
+thoracic cord	control ASO	4	1
+thoracic cord	control ASO	4	1.05
+thoracic cord	active ASO 1	4	0.42
+thoracic cord	active ASO 1	4	0.42
+thoracic cord	active ASO 1	4	0.46
+thoracic cord	active ASO 1	4	0.41
+thoracic cord	active ASO 2	4	0.38
+thoracic cord	active ASO 2	4	0.37
+thoracic cord	active ASO 2	4	0.44
+thoracic cord	active ASO 2	4	0.44
+thoracic cord	saline	12	1
+thoracic cord	saline	12	1.02
+thoracic cord	saline	12	0.99
+thoracic cord	saline	12	0.98
+thoracic cord	control ASO	12	1.03
+thoracic cord	control ASO	12	1
+thoracic cord	control ASO	12	1.03
+thoracic cord	control ASO	12	1.04
+thoracic cord	active ASO 1	12	0.66
+thoracic cord	active ASO 1	12	0.52
+thoracic cord	active ASO 1	12	0.61
+thoracic cord	active ASO 1	12	0.54
+thoracic cord	active ASO 2	12	0.48
+thoracic cord	active ASO 2	12	0.55
+thoracic cord	active ASO 2	12	0.49
+thoracic cord	active ASO 2	12	0.54
+thoracic cord	saline	16	0.99
+thoracic cord	saline	16	1.02
+thoracic cord	saline	16	0.97
+thoracic cord	saline	16	1.02
+thoracic cord	control ASO	16	0.94
+thoracic cord	control ASO	16	0.95
+thoracic cord	control ASO	16	0.87
+thoracic cord	control ASO	16	0.98
+thoracic cord	active ASO 1	16	0.68
+thoracic cord	active ASO 1	16	0.62
+thoracic cord	active ASO 1	16	0.64
+thoracic cord	active ASO 1	16	0.66
+thoracic cord	active ASO 2	16	0.46
+thoracic cord	active ASO 2	16	0.48
+thoracic cord	active ASO 2	16	0.51
+thoracic cord	active ASO 2	16	0.57

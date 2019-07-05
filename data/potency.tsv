@@ -1,0 +1,46 @@
+region	treatment	dose	mrna	x
+cortex	saline	NA	0.99	1
+cortex	saline	NA	1	1
+cortex	saline	NA	1.01	1
+cortex	active ASO 1	500	0.49	2
+cortex	active ASO 1	500	0.6	2
+cortex	active ASO 1	500	0.36	2
+cortex	active ASO 1	700	0.42	3
+cortex	active ASO 1	700	0.46	3
+cortex	active ASO 1	700	0.39	3
+cortex	active ASO 2	500	0.51	4
+cortex	active ASO 2	500	0.22	4
+cortex	active ASO 2	500	0.41	4
+cortex	active ASO 2	700	0.3	5
+cortex	active ASO 2	700	0.26	5
+cortex	active ASO 2	700	0.34	5
+hippocampus	saline	NA	1.01	7
+hippocampus	saline	NA	1.1	7
+hippocampus	saline	NA	0.9	7
+hippocampus	active ASO 1	500	0.44	8
+hippocampus	active ASO 1	500	0.44	8
+hippocampus	active ASO 1	500	0.32	8
+hippocampus	active ASO 1	700	0.37	9
+hippocampus	active ASO 1	700	0.45	9
+hippocampus	active ASO 1	700	0.35	9
+hippocampus	active ASO 2	500	0.37	10
+hippocampus	active ASO 2	500	0.18	10
+hippocampus	active ASO 2	500	0.38	10
+hippocampus	active ASO 2	700	0.24	11
+hippocampus	active ASO 2	700	0.29	11
+hippocampus	active ASO 2	700	0.21	11
+thoracic cord	saline	NA	0.99	13
+thoracic cord	saline	NA	1.08	13
+thoracic cord	saline	NA	0.94	13
+thoracic cord	active ASO 1	500	0.55	14
+thoracic cord	active ASO 1	500	0.64	14
+thoracic cord	active ASO 1	500	0.72	14
+thoracic cord	active ASO 1	700	0.49	15
+thoracic cord	active ASO 1	700	0.59	15
+thoracic cord	active ASO 1	700	0.51	15
+thoracic cord	active ASO 2	500	0.54	16
+thoracic cord	active ASO 2	500	0.47	16
+thoracic cord	active ASO 2	500	0.47	16
+thoracic cord	active ASO 2	700	0.37	17
+thoracic cord	active ASO 2	700	0.41	17
+thoracic cord	active ASO 2	700	0.4	17
