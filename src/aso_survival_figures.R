@@ -41,8 +41,8 @@ mouse_survival = read.table('data/mouse_survival.tsv',sep='\t',header=T)
 mouse_survival$treatment = mouse_survival$cohort # alias for this variable
 
 
-
-imgsave(paste('figures/script_generated/figure-1.',imgmode,sep=''),width=9*resx,height=7*resx,res=resx)
+# extra resolution - for some reason Fig 1 did not pass journal QC
+imgsave(paste('figures/script_generated/figure-1.',imgmode,sep=''),width=9*resx*4,height=7*resx*4,res=resx*4)
 
 layout_matrix = matrix(c(1,1,4,4,2,2,4,4,3,3,4,4),nrow=3,byrow=T)
 layout(layout_matrix)
@@ -76,11 +76,18 @@ group by 1
 order by 1
 ;")
 
+set.seed(1) # make jittering reproducible
+potency$xjit = jitter(potency$x, .25)
+
+potency$color = alpha(potency$color, potency$dose/max(potency$dose,na.rm=T))
+potency$color[is.na(potency$dose)] = plot_params$color[match(potency$treatment[is.na(potency$dose)], plot_params$treatment)]
+
 par(mar=c(6,5,4,1))
 xlims = c(min(potency$x)-1, max(potency$x) + 0.5)
 plot(NA,NA,xlim=xlims,ylim=c(0,1.2),xaxs='i',yaxs='i',ann=FALSE,axes=FALSE)
-points(psmry$x, psmry$mean, type='h', lwd=20, lend=1, col=psmry$color)
-arrows(x0=psmry$x, y0=psmry$l95, y1=psmry$u95, angle=90, length=0.05, code=3, lwd=1, col='black')
+points(potency$x, potency$mrna, pch=19, col=potency$color, lwd=0)
+arrows(x0=psmry$x, y0=psmry$l95, y1=psmry$u95, angle=90, length=0.03, code=3, lwd=1, col=psmry$color)
+segments(x0=psmry$x-.25, x1=psmry$x+.25, y0=psmry$mean, lwd=1, col=psmry$color)
 axis(side=2, at=(0:4)/4, labels=percent((0:4)/4), lwd=0, lwd.ticks=1, las=2)
 abline(h=0,lwd=2)
 abline(h=1, lwd=1, lty=3)
